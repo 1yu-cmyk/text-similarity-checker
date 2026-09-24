@@ -17,3 +17,6 @@ venv/
 # 系统文件
 .DS_Store
 Thumbs.db
+
+# Office 临时/锁文件（Word 打开文档时生成）
+~$*
